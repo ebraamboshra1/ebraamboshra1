@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebraamboshra1" alt="ebraamboshra1" /></a> </p>
 
-- 🔭 I’m currently working at **Dimofinf**
+- 🔭 I’m currently working at **Etisalat Misr**
 
 - 💬 Ask me about **Flutter, Android**
 
